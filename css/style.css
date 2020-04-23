@@ -124,12 +124,13 @@ li {
 
 /* line 68, ../../Arafath/CL/Cl November/227. Health _ Fitness/HTML/scss/theme-default.scss */
 p {
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 28px;
-  color: #7A838B;
-  margin-bottom: 0px;
-  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #eeeeee;
+    margin-bottom: 0px;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 20px
 }
 
 /* line 77, ../../Arafath/CL/Cl November/227. Health _ Fitness/HTML/scss/theme-default.scss */
